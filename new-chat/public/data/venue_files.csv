@@ -1,5 +1,0 @@
-id,venue_id,title,file_type,file_path,description,display_order
-1,1,会場写真,png,files/venues/001/sample.png,建物入口写真のサンプルです。,1
-2,1,駐車場案内,pdf,files/venues/001/sample.pdf,駐車場案内図のサンプルPDFです。,2
-3,2,会場写真,png,files/venues/002/sample.png,会場写真のサンプルです。,1
-4,3,案内資料,pdf,files/venues/003/sample.pdf,案内資料のサンプルPDFです。,1
